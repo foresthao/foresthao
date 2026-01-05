@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @foresthao. And I am a PhD candidate in Harbin Institute of Technology, Shenzhen and I am an intern of PCL.
 - 👀 I’m interested in Graph Neural Network.
 - 🌱 I’m currently learning cyber security.
-- 📫 How to reach me? You can contact me via my e-mail: yanhao0202@126.com, yanhaoforest@gmail.com
+- 📫 How to reach me? You can contact me via my e-mail: yanhao0202@126.com, yanhaoforest@gmail.com.
+- 👀 Academic page: https://foresthao.github.io/
 
 <!---
 foresthao/foresthao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
